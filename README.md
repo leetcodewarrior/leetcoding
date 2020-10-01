@@ -15,6 +15,8 @@
 | 09/30/20| LC41 | [First Missing Positive](LC41FirstMissingPositive.java) | Hard? | 
 
 # October Leetcoding Challenge
+| Date | # | Title | Difficulty |
+| ---- |---| ----- | ---------- |
 | 10/01/20| LC624 | [ Maximum Distance in Arrays](LC624MaximumDistanceinArrays.java) | Easy |
 
 
