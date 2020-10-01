@@ -12,6 +12,6 @@
 | 09/27/20| LC399 | [Evaluate Division](LC399EvaluateDivision.java) | Medium | 
 | 09/28/20| LC713 | [Subarray Product Less Than K](LC713SubarrayProductLessThanK.java) | Medium | 
 | 09/29/20| LC139 | [Word Break](LC139WordBreak.java) | Medium | 
-
+| 09/30/20| LC41 | [First Missing Positive](LC41FirstMissingPositive.java) | Hard? | 
 
 
