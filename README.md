@@ -19,4 +19,5 @@
 | Date | # | Title | Difficulty |
 | ---- |---| ----- | ---------- |
 | 10/01/20| LC624 | [Maximum Distance in Arrays](LC624MaximumDistanceinArrays.java) | Easy |
-| 10/01/20| LC933 | [Number of Recent Calls](LC933NumberofRecentCalls.java) | Easy |
+| 10/02/20| LC933 | [Number of Recent Calls](LC933NumberofRecentCalls.java) | Easy |
+| 10/03/20| LC933 | [K-diff Pairs in an Array](LC532KdiffPairsinanArray.java) | Medium |
