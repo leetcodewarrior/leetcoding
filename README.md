@@ -2,6 +2,7 @@
 | Date | # | Title | Difficulty |
 | ---- |---| ----- | ---------- |
 | 09/26/20| LC509 | [Fibonacci Number](LC509FibonacciNumber.java) | Easy | 
+| 10/02/20| LC39 | [Combination Sum](LC39CombinationSum.java) | Medium | 
 
 # September Leetcoding Challenge
 | Date | # | Title | Difficulty |
