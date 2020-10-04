@@ -21,3 +21,4 @@
 | 10/01/20| LC624 | [Maximum Distance in Arrays](LC624MaximumDistanceinArrays.java) | Easy |
 | 10/02/20| LC933 | [Number of Recent Calls](LC933NumberofRecentCalls.java) | Easy |
 | 10/03/20| LC532 | [K-diff Pairs in an Array](LC532KdiffPairsinanArray.java) | Medium |
+| 10/04/20| LC1288 | [Remove Covered Intervals](LC1288RemoveCoveredIntervals.java) | Medium |
