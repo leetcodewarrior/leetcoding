@@ -24,3 +24,4 @@
 | 10/04/20| LC1288 | [Remove Covered Intervals](LC1288RemoveCoveredIntervals.java) | Medium |
 | 10/05/20| LC1009 | [Complement of Base 10 Integer](LC1009ComplementofBase10Integer.java) | Easy |
 | 10/06/20| LC701 | [Insert into a Binary Search Tree](LC701InsertintoaBinarySearchTree.java) | Easy |
+| 10/07/20| LC61 | [Rotate List](LC61RotateList.java) | Easy |
